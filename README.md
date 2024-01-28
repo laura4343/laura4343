@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laura4343
+- 👋 Hi, I’m @laura4343 im from brazil and im 15years old 
 - 👀 I’m interested in improve more and more day by day
 - 🌱 I’m currently learning pandas, javascript, no sql....and more.............
 - 💞️ I’m looking to collaborate on nothing actually.
