@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing actually.
 - 📫 How to reach me: 123laurafarias@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i love indie games !!
+- ⚡ Fun fact: love life is strange
 
 <!---
 laura4343/laura4343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
