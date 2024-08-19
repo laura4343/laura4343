@@ -3,6 +3,23 @@
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=laura4343)](https://github.com/laura4343/github-readme-stats)
 
+<br>
+
+<a href="https://github.com/laura4343">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/laura4343">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
+
+<a href="https://github.com/laura4343/laura4343">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=TheDudeThatCode&theme=dark" />
+</a>
+
+
+
 ## About me
 <br>
 
