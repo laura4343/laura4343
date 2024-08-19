@@ -25,7 +25,7 @@
 
 > <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **in school** 📒 or *working* on my **laptop** 👨‍💻<br>
 >  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20px" /> *Ask me* about **Life is Strange** <br>
->  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Pronouns:** [*She/Her*](https://pronoun.is/she) 🧔 <br>
+>  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Pronouns:** She/her 🧔 <br>
 >  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Fun fact:**  I already jumped with a parachute 🪂 <br>
 >  MY *PORTFOLIO*: [⚙Click here](https://123laurafarias.myportfolio.com/
 )
